@@ -1,0 +1,33 @@
+body{
+    background-color:  #7b798f;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.row{
+    display: flex;
+}
+.box1{
+    height: 120px;
+    width: 50%;
+    background-color: #646266;
+}
+.box2{
+    height: 70px;
+    width: 50%;
+    background-color: #646266;
+    padding-right: 50px;
+    padding-top: 50px;
+    text-align: right;
+    font-style: oblique;
+    font-size: 15px;
+
+}
+.box3{
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.box4{
+    width:50%;
+    height: 120px;
+}
